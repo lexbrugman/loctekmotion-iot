@@ -1,0 +1,7 @@
+# ESPHome secrets — never commit real credentials
+secrets.yaml
+
+# ESPHome build cache / generated output
+.esphome/
+*.bin
+config/.esphome/
